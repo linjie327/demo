@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HNUST:war">
+    <output-path>E:/培训资料-后端/SSM(Spring+SpringMVC+Myibatis/1-SSM整合详细教程/HNUST/org.zsl.hnust Maven Webapp/target</output-path>
+    <root id="archive" name="org.zsl.hnust.war">
+      <element id="artifact" artifact-name="HNUST:war exploded" />
+    </root>
+  </artifact>
+</component>
